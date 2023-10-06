@@ -1,2 +1,2 @@
 # POWER-BI-PROJECT-DASHBOARD-3
-Vishal Mall Sales Dashboard by Ketan  
+super market Sales Dashboard by Ketan  
